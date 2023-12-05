@@ -18,8 +18,8 @@ if (quantidadeXP < 1000){
     nivel = "Imortal"
 } else if (quantidadeXP >= 10001){
     nivel = "Radiante"
-} else{
-    console.log("Nivel não encontrado")
+} else {
+    console.log("Nível não encontrado")
     nivel = "desconhecido"
 }
 
